@@ -72,7 +72,7 @@ export default function Page() {
     <div>
       {/* Wordmark */}
       <div className="mb-8 flex items-center gap-2">
-        <div className="text-2xl font-extrabold tracking-tight text-black">Marry Sam</div>
+        <div className="text-2xl font-extrabold tracking-tight text-black">Marry v 0.1</div>
         <div className="h-2 w-2 rounded-full bg-black/60" aria-hidden="true" />
       </div>
 
